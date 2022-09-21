@@ -1,3 +1,3 @@
-# VK Name:Alex Bogdan
+#Alex Bogdan
 Name:Aleksejs Bogdanovs
 Moj pervij sajt
